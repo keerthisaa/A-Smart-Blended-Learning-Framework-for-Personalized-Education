@@ -5,21 +5,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [Tech Stack](#tech-stack)
-* [Quick Start](#quick-start)
-* [Login Credentials](#login-credentials)
-* [Project Structure](#project-structure)
-* [API Reference](#api-reference)
-* [ML System](#ml-system)
-* [Design System](#design-system)
-* [Configuration](#configuration)
-
----
-
 ## 🎯 Overview
 
 **A Smart Blended Learning Framework for Personalized Education** is an AI-powered School Management System designed to combine traditional classroom learning with intelligent digital support.
